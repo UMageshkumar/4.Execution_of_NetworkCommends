@@ -85,6 +85,7 @@ c.close()
 ```
 
 ## Output
-![alt text](OutputScreenshot.png)
+![image](https://github.com/user-attachments/assets/b622d890-25a2-4743-8395-6e48ef9d6743)
+
 ## Result
 Thus Execution of Network commands Performed 
